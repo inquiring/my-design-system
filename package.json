@@ -16,6 +16,10 @@
     "node": ">=4"
   },
   "devDependencies": {
+    "atob": ">=2.1.0",
+    "static-eval": ">=2.0.0",
+    "fresh": ">=0.5.2",
+    "mime": ">=1.4.1",
     "autoprefixer": "^9.7.0",
     "bem": "^2.0.0",
     "bem-components-custom": "3.0.4",
